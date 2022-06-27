@@ -14,4 +14,4 @@ Email - 19131a05m5@gvpce.ac.in
   </div>
 
  -->
- ## This Repo is for practice programs and we are not responsible for any malpractices actions that you make
+ ## This Repo is for practicing programs and we are not responsible for any malpractices actions that you make
