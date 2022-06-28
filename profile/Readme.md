@@ -15,3 +15,8 @@ Email - 19131a05m5@gvpce.ac.in
 
  -->
  ## This Repo is for practicing programs and we are not responsible for any malpractices actions that you make
+
+
+Mysql - https://dev.mysql.com/downloads/windows/installer/8.0.html
+
+connector j - https://dev.mysql.com/downloads/connector/j/
